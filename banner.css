@@ -1,0 +1,44 @@
+.main{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: flex;
+  top: 0px;
+  left: 0px;
+  justify-content: center;
+  align-items: center;
+}
+.common {
+  width: 100%;
+  height: 180px;
+  background-size: calc(100% + 60px) 180px;
+  position: absolute;
+}
+.background {
+  background-image: url("./BiPic/backGround.png");
+}
+.front_1 {
+  background-image: url("./BiPic/front_1.png");
+}
+.front_2 {
+  background-image: url("./BiPic/front_2.png");
+  /* background-size: 100%; */
+}
+.front_3 {
+  background-image: url("./BiPic/front_3.png");
+}
+.front_4 {
+  background-image: url("./BiPic/front_4.png");
+}
+.girl_1 {
+  background-image: url("./BiPic/girl_1.png");
+}
+.girl_2 {
+  background-image: url("./BiPic/girl_2.png");
+}
+.girl_3 {
+  background-image: url("./BiPic/girl_3.png");
+}
+.girl_4 {
+  background-image: url("./BiPic/girl_4.png");
+}
